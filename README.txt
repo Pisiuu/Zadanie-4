@@ -1,0 +1,1 @@
+Try catch, które pojawiły się w moich poprzednich programach; przy sprawdzaniu czy istnieje taki element tablicy zrobilem if else bo try catch nie działało :C; prosty program; Zadanie 4 - wydaję mi się, że napsiałem pierwzzy program w ten sposób :)
